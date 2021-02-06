@@ -9,3 +9,5 @@ node backend/backend.js
 ```
 
 To setup default settings of project choose **Import** from Menu and then click **Setup** button
+
+Default data was created using API from https://the-one-api.dev/documentation
